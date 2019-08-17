@@ -1,5 +1,5 @@
 var app = angular.module('myApp', ['ngRoute', 'ngAnimate', 'toaster']);
-
+//config
 app.config(['$routeProvider',
   function ($routeProvider) {
         $routeProvider.
